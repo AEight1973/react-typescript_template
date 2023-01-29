@@ -1,0 +1,139 @@
+#deck-gl-container {
+    width: 100%;
+    height: 100%;
+}
+
+#test_info {
+    position: fixed;
+    z-index: 999;
+}
+
+#test_button_box {
+    position: fixed;
+    z-index: 999;
+    left: 16px;
+    top: 16px;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    min-width: 100px;
+    min-height: 32px;
+}
+
+.layer-manager-card {
+    position: absolute;
+    padding: 30px;
+    background: #ececec;
+    right: 16px;
+    top: 16px;
+    width: 300px;
+}
+
+.map-information-card {
+    position: absolute;
+    padding: 30px;
+    background: #ececec;
+    left: 16px;
+    bottom: 16px;
+    width: 300px;
+}
+
+#map-basic-plugin-box {
+
+}
+
+.map-basic-plugin-button {
+    position: absolute;
+    left: 16px;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    border: solid 1px #666666;
+    background: #eeeeee;
+    padding: 0 4px 16px 4px;
+    font-size: 24px;
+}
+
+.map-basic-plugin-zoom {
+    position: absolute;
+    left: 16px;
+    top: 16px;
+    width: 32px;
+    height: 64px;
+}
+
+.map-basic-plugin-measure {
+    position: absolute;
+    left: 16px;
+    top: 96px;
+    width: 32px;
+    height: 96px;
+}
+
+.map-basic-plugin-create {
+    position: absolute;
+    left: 16px;
+    top: 256px;
+    width: 32px;
+    height: 96px;
+}
+
+.map-basic-plugin-snap {
+    position: absolute;
+    left: 16px;
+    top: 368px;
+    width: 32px;
+    height: 128px;
+}
+
+.map-basic-plugin-input {
+
+}
+
+.map-basic-plugin-search-bar {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    width: 320px;
+    height: 32px;
+    border-radius: 8px;
+    border: solid 1px #666666;
+    background: #eeeeee;
+    padding: 4px;
+    font-size: 24px;
+}
+
+.map-basic-plugin-search {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}
+
+.test-plugin-box {
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+    width: 32px;
+    height: 32px;
+}
+
+.ant-card-body {
+
+}
+
+.kg-button {
+    border-radius: 0
+}
+
+.map-basic-plugin-pick-catch {
+    position: absolute;
+    left: 16px;
+    top: 208px;
+    width: 32px;
+    height: 96px;
+}
+
+.search-bar-popup {
+
+}
